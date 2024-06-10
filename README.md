@@ -10,3 +10,9 @@
 - **Hover Effects**: Reveals image captions and applies transformations on hover.
 - **Grayscale Filter**: Applied to images and removed on hover.
 - **Easy Customization**: Simple HTML and CSS code for easy customization.
+
+## Screenshot
+
+Here is a screenshot of the project:
+
+![Screenshot](screenshot.png)
